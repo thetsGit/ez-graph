@@ -1,17 +1,25 @@
 {
-	"name": "graphy",
-	"version": "1.0.0",
-	"description": "",
-	"source": "index.js",
-	"main": "dist/main.cjs",
-	"module": "dist/main.mjs",
-	"scripts": {
-		"build": "parcel build",
-		"build:watch": "parcel watch"
-	},
-	"author": "han",
-	"license": "MIT",
-	"devDependencies": {
-		"parcel": "^2.12.0"
-	}
+  "name": "graphy",
+  "version": "1.0.0",
+  "description": "Hi! I'm graphy. I could provides some basic utilities for graph manipulation. But mind you that I was created just for packaging publishing testing purpose only xD",
+  "source": "index.js",
+  "main": "dist/main.cjs",
+  "module": "dist/main.mjs",
+  "scripts": {
+    "build": "parcel build",
+    "build:watch": "parcel watch"
+  },
+  "author": "han",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetsGit/graphy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thetsGit/graphy/issues"
+  },
+  "homepage": "https://github.com/thetsGit/graphy#readme"
 }
