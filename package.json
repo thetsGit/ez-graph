@@ -1,0 +1,16 @@
+{
+	"name": "graphy",
+	"version": "1.0.0",
+	"description": "",
+	"source": "index.js",
+	"main": "dist/main.cjs",
+	"module": "dist/main.mjs",
+	"scripts": {
+		"build": "parcel build"
+	},
+	"author": "han",
+	"license": "MIT",
+	"devDependencies": {
+		"parcel": "^2.12.0"
+	}
+}
