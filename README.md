@@ -1,6 +1,6 @@
-# Graphy
+# ez-graph
 
-Hi! I'm graphy. I could provides some basic utilities for graph manipulation. But mind you that I was created just for packaging publishing testing purpose only xD
+Hi! I'm ez-graph. I provides some basic utilities for graph manipulation. But mind you that I was created just for packaging publishing testing purpose only xD
 
 ## Development Guide
 
